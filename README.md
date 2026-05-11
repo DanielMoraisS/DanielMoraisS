@@ -26,14 +26,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMoraisS&show_icons=true&theme=tokyonight&includ_all_commit=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielMoraisS&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMoraisS&layout=compact&theme=dark&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielMoraisS&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-  
