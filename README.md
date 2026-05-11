@@ -23,3 +23,5 @@
 </div>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DanielMoraisS.DanielMoraisS)
+
+![Snake animation](https://raw.githubusercontent.com/DanielMoraisS/DanielMoraisS/output/github-snake.svg)
