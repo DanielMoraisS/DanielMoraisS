@@ -24,8 +24,4 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DanielMoraisS.DanielMoraisS)
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMoraisS&show_icons=true&theme=tokyonight&includ_all_commit=true)
-
 
