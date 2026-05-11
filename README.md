@@ -23,9 +23,3 @@
 </div>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DanielMoraisS.DanielMoraisS)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielMoraisS/DanielMoraisS/output/github-contribution-grid-snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielMoraisS/DanielMoraisS/output/github-contribution-grid-snake.svg?v=2">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/DanielMoraisS/DanielMoraisS/output/github-contribution-grid-snake.svg?v=2">
-</picture>
