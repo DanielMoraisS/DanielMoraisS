@@ -23,5 +23,5 @@
 </div>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DanielMoraisS.DanielMoraisS)
-
+<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/DanielMoraisS/DanielMoraisS/output/github-contribution-grid-snake.svg?v=2">
 
