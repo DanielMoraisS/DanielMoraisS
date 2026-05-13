@@ -3,13 +3,14 @@
 - 🔭 I currently work as a Telecommunications Technician...
 - 🌱 I am a Software Engineering student...
 - 💻 I am also studying the programming languages ​​Python, JavaScript, and HTML...
-
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-Matheus">
 
   ## 🚀 About me
 - 🔭 Always exploring new projects and technologies
