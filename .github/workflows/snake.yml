@@ -2,19 +2,25 @@ name: Generate Snake
  
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"  # roda a cada 12 horas
+  workflow_dispatch:         # permite rodar manualmente
+  push:
+    branches:
+      - main
  
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+ 
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.gif?color_snake=black&color_dots=#0a0a2e,#ff6600,#ff8c00,#ffa500,#ffd280&color_background=#0a0a2e
-            dist/github-snake-dark.gif?color_snake=black&color_dots=#0a0a2e,#ff6600,#ff8c00,#ffa500,#ffd280&color_background=#0a0a2e
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+ 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
