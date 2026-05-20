@@ -1,20 +1,20 @@
 name: Keep Alive
- 
+
 on:
   schedule:
-    - cron: "0 0 1 * *"  # todo dia 1 do mês
-   workflow_dispatch:    # ← adiciona isso
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
 jobs:
   keepalive:
     runs-on: ubuntu-latest
- 
+
     steps:
       - uses: actions/checkout@v3
- 
+
       - name: Commit vazio para manter workflows ativos
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git commit --allow-empty -m "chore: keep alive"
           git push
- 
