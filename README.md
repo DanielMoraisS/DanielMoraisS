@@ -9,7 +9,7 @@ Currently, I am transitioning careers and studying Software Engineering, where I
 - 💻 Programming languages: JavaScript, C/C++, and Python
 - 🌐 Markup language: HTML
 - 🎨 Style language: CSS
-- 🎮 Controle de versão para código: Git
+- 🎮 Version control for code: Git
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
